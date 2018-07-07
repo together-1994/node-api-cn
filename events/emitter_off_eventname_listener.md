@@ -6,5 +6,5 @@ added: v10.0.0
 * `listener` {Function}
 * Returns: {EventEmitter}
 
-Alias for [`emitter.removeListener()`][].
+[`emitter.removeListener()`][]的别名.
 
